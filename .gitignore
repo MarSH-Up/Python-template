@@ -1,1 +1,3 @@
 .DS_Store
+./build
+./Bilinear_Model_fNIRS.egg-info

@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: Bilinear-Model-fNIRS
+Version: 0.1.0
+Summary: fNIRS Synthetic data generator based on the Bilinear Model [S.Tak 2015] 
+Home-page: https://github.com/yourusername/your_project_name
+Author: Mario De Los Santos
+Author-email: madlsh3517@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: anyio==3.6.2
+Requires-Dist: autopep8==2.0.2
+Requires-Dist: certifi==2022.12.7
+Requires-Dist: charset-normalizer==3.1.0
+Requires-Dist: contourpy==1.1.0
+Requires-Dist: cycler==0.11.0
+Requires-Dist: filelock==3.12.2
+Requires-Dist: fonttools==4.40.0
+Requires-Dist: h11==0.14.0
+Requires-Dist: httpcore==0.16.3
+Requires-Dist: httpx==0.23.3
+Requires-Dist: idna==3.4
+Requires-Dist: Jinja2==3.1.2
+Requires-Dist: kiwisolver==1.4.4
+Requires-Dist: MarkupSafe==2.1.3
+Requires-Dist: matplotlib==3.7.1
+Requires-Dist: mpmath==1.3.0
+Requires-Dist: networkx==3.1
+Requires-Dist: numpy==1.25.0
+Requires-Dist: onnx==1.14.0
+Requires-Dist: opencv-python==4.7.0.72
+Requires-Dist: packaging==23.1
+Requires-Dist: pandas==2.0.2
+Requires-Dist: Pillow==9.5.0
+Requires-Dist: protobuf==4.23.3
+Requires-Dist: psutil==5.9.5
+Requires-Dist: pycodestyle==2.10.0
+Requires-Dist: pyparsing==3.0.9
+Requires-Dist: python-dateutil==2.8.2
+Requires-Dist: python-telegram-bot==20.2
+Requires-Dist: pytz==2023.3
+Requires-Dist: PyYAML==6.0
+Requires-Dist: requests==2.31.0
+Requires-Dist: rfc3986==1.5.0
+Requires-Dist: scipy==1.10.1
+Requires-Dist: seaborn==0.12.2
+Requires-Dist: six==1.16.0
+Requires-Dist: sniffio==1.3.0
+Requires-Dist: sympy==1.12
+Requires-Dist: tomli==2.0.1
+Requires-Dist: torch==2.0.1
+Requires-Dist: torchvision==0.15.2
+Requires-Dist: tqdm==4.65.0
+Requires-Dist: typing_extensions==4.6.3
+Requires-Dist: tzdata==2023.3
+Requires-Dist: ultralytics@ file:///Users/mariodelossantos/CLionProjects/YoloCpp/ultralytics
+Requires-Dist: urllib3==2.0.3

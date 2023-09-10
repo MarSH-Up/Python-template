@@ -8,7 +8,7 @@ with open('requirements.txt', 'r', encoding='utf-8') as f:
     requirements = f.read().splitlines()
 
 setup(
-    name='your_project_name',
+    name='Bilinear-Model-fNIRS',
     version='0.1.0',
     description='fNIRS Synthetic data generator based on the Bilinear Model [S.Tak 2015] ',
     long_description_content_type="text/markdown",

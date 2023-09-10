@@ -43,5 +43,5 @@ torchvision==0.15.2
 tqdm==4.65.0
 typing_extensions==4.6.3
 tzdata==2023.3
-ultralytics @ file:///Users/mariodelossantos/CLionProjects/YoloCpp/ultralytics
+ultralytics@ file:///Users/mariodelossantos/CLionProjects/YoloCpp/ultralytics
 urllib3==2.0.3
