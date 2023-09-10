@@ -8,12 +8,12 @@ with open('requirements.txt', 'r', encoding='utf-8') as f:
     requirements = f.read().splitlines()
 
 setup(
-    name='Bilinear-Model-fNIRS',
+    name="{{cookiecutter.project_slug}}",
     version='0.1.0',
     description='fNIRS Synthetic data generator based on the Bilinear Model [S.Tak 2015] ',
     long_description_content_type="text/markdown",
-    author='Mario De Los Santos',
-    author_email='madlsh3517@gmail.com',
+    author="{{cookiecutter.author}}",
+    author_email="{{cookiecutter.email}}",
     url='https://github.com/yourusername/your_project_name',
     install_requires=requirements,
     packages=find_packages(exclude=('tests*', 'docs')),
