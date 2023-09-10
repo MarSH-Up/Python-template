@@ -1,5 +1,7 @@
 {
     "project_slug": "Python Template",
     "author": "Mario De Los Santos",
-    "email": "madlsh3517@gmail.com"
+    "email": "madlsh3517@gmail.com",
+    "description": "Add a brief description for your project",
+    "githubRespository": "https://github.com/yourusername/your_project_name"
 }
